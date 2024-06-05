@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "FormUtils",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "businessLoanTermOptions",
+        "value": "[2, 4, 10]"
+      },
+      {
+        "name": "homeLoanTermOptions",
+        "value": "[5, 10, 15]"
+      },
+      {
+        "name": "personalLoanTermOptions",
+        "value": "[2, 3, 4, 5]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_FormUtils",
+  "deleted": false,
+  "gitSyncId": "6660274e9f855f14f8985640_ecc2628e-35c3-439b-828a-3283bc15446f"
+}
