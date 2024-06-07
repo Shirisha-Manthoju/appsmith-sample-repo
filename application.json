@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "model_json_page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
