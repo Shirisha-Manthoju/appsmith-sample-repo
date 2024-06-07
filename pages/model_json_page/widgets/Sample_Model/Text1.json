@@ -17,6 +17,7 @@
     "animateLoading": true,
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "dynamicTriggerPathList": [],
     "leftColumn": 1,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
@@ -25,7 +26,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Modal Title",
+    "text": "Sample Model",
     "key": "uckb6mfytf",
     "isDeprecated": false,
     "rightColumn": 29,

@@ -15,6 +15,7 @@
     },
     "pageId": "model_json_page",
     "actionConfiguration": {
+      "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
@@ -51,7 +52,7 @@
         },
         "insert": {
           "documents": {
-            "data": "{{(JSONForm1.formData || {})}}"
+            "data": "{{(MoviesJsonForm.formData || {})}}"
           }
         },
         "smartSubstitution": {
@@ -74,7 +75,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "(JSONForm1.formData || {})"
+      "(MoviesJsonForm.formData || {})"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
